@@ -1,0 +1,10 @@
+profile: public-oss
+owner: IoannisManouris
+repository: mr-zombie
+description: "A Discord bot for random animal pictures, facts, memes, and server statistics."
+visibility: public
+default_branch: main
+license: unlicensed
+status: historical-source
+topics: [discord-bot, discord-py, python, slash-commands]
+release_policy: no-versioned-releases
